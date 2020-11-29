@@ -1,0 +1,121 @@
+* {box-sizing: border-box }
+.section{
+	width: 100%;
+
+}
+
+.section.first-section{
+    background: #F6F6F6;
+    border-bottom: 1px solid rgba(51,51,51,0.05);
+}
+
+.section.second-section{
+    background: #fff;
+    height: 2508px;
+
+}
+
+.container1{
+    width: 1448px;
+    padding-top: 60px;
+    max-width: 100%;
+    padding-left: 165px;
+    padding-right: 165px;
+    padding-bottom: 87px;
+    font: bold 24px/32px Helvetica Neue, "Open Sans",sans-serif;
+
+    letter-spacing: -0.5px;
+    color: #000000;
+}
+.container2{
+    max-width: 100%;
+    width: 1440px;
+    height: 884px;
+    padding-top: 36px;
+    padding-left: 165px;
+    padding-right: 165px;
+    margin-bottom: 65.92px;
+    font: bold 24px/32px Helvetica Neue, "Open Sans",sans-serif;
+}
+.container3{
+    max-width: 100%;
+    height: 542px;
+    padding-left: 165px;
+    padding-right: 165px;
+    padding-top: 60px;
+}
+h1{
+    font: bold 40px/48px Helvetica Neue, "Open Sans",sans-serif;
+    letter-spacing: -0.5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+p {
+    font: bold 16px/24px Helvetica Neue, "Open Sans",sans-serif;
+    font-style: normal;
+    font-weight: normal;
+
+
+    letter-spacing: 0.1px;
+    color: #000;
+}
+
+h2{
+    font: bold 24px/32px Helvetica Neue, "Open Sans",sans-serif;
+    letter-spacing: -0.1px;
+    height: 41px;
+    padding-bottom: 9px;
+    margin-bottom: 31px;
+}
+h3{
+    font: bold 18px/28px Helvetica Neue, "Open Sans",sans-serif;
+    margin-top: 31px;
+    margin-bottom: 16px;
+}
+h4{
+    font: bold 18px/28px Helvetica Neue, "Open Sans",sans-serif;
+    margin-top: 18px;
+    margin-bottom: 6px;
+}
+
+.blue-box{
+    height: 63px;
+    background: #E1EDFF;
+    border-radius: 4px;
+    padding: 10px 26px 5px 26px;
+    font: bold 16px/24px Helvetica Neue, "Open Sans",sans-serif;
+    margin-bottom: -5px;
+}
+h5{
+    margin-top: 37.26px;
+    margin-bottom: -0.08px;
+    font: bold 16px/24px Helvetica Neue, "Open Sans",sans-serif;
+}
+.list{
+    margin-top: 71.64px;
+    font: normal 16px/24px Helvetica Neue, "Open Sans",sans-serif;
+}
+
+.ul1{
+    margin-bottom: 7.96px;
+    font: normal 16px/24px Helvetica Neue, "Open Sans",sans-serif;
+}
+
+h6{
+    font: normal 18px/28px Helvetica Neue, "Open Sans",sans-serif;
+    color: #000000;
+    margin: 0px;
+}
+
+.table {
+    padding: 24px;
+    background: white;
+    width: 350px;
+    height: 422px;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1), 0px 1px 4px rgba(0, 0, 0, 0.1);
+}
+.table.centerTable{
+    margin: 0px 26px;
+}
